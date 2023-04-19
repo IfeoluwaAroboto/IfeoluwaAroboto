@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aroboto Ifeoluwa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer and Technical Writer</h3>
 
 - 🔭 I’m currently working on [Food App](https://myfood-cart.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/Ldnndntie](https://resume.io/r/Ldnndntie)
 
-- ⚡ Fun fact **I am also a writer.**
+- ⚡ Fun fact **I am also a creative writer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
