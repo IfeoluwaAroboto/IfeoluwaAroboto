@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Food App](https://myfood-cart.netlify.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://ifeoluwaaroboto.github.io/My-Portfolio/](https://ifeoluwaaroboto.github.io/My-Portfolio/)
 
