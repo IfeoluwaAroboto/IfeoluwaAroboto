@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/Ldnndntie](https://resume.io/r/Ldnndntie)
 
-- ⚡ Fun fact **I am also a creative writer.**
+- ⚡ Fun fact **I am also a Technical writer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
